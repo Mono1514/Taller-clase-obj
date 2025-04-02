@@ -3,17 +3,17 @@ Este programa permite crear un modelo 3D simple en formato OBJ. Puedes ingresar 
 Cómo Usar el Programa
 
 1. Compila el Código:
-   - Asegúrate de tener un compilador de C++ instalado.
-   - Abre una terminal y navega al directorio donde está el archivo `modelo.cpp`.
+   - Tener un compilador de C++ instalado.
+   - Abre una terminal y navega al directorio donde está el archivo `obj.cpp`.
    - Compila el código con:
      ```bash
-     g++ modelo.cpp -o modelo
+     g++ obj.cpp -o obj
      ```
 
 2. Ejecuta el Programa:
    - Ejecuta el programa con:
      ```bash
-     ./modelo
+     ./obj
      ```
 
 3. Ingresa los Datos:
