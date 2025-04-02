@@ -23,4 +23,3 @@ Cómo Usar el Programa
      - Número de caras: Escribe un número entero.
      - Índices de las caras: Ingresa los índices de los vértices que forman cada cara, separados por espacios.
 
-Ejemplo de Uso
